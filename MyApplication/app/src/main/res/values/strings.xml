@@ -1,5 +1,0 @@
-<resources>
-    <string name="app_name">My Application</string>
-    <string name="message_no_network">You\'re Not connected to internet</string>
-    <string name="message_login_failed">Login Failed Invalid Credentials</string>
-</resources>
