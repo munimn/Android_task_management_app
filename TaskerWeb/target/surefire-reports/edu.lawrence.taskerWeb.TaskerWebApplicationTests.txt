@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: edu.lawrence.taskerWeb.TaskerWebApplicationTests
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.105 s - in edu.lawrence.taskerWeb.TaskerWebApplicationTests
